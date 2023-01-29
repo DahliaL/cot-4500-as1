@@ -20,9 +20,5 @@ The first command will install third-party libraries necessary for the program t
 
 The second command compiles and runs the program.
 
-The program will run on its out outputting 3 matrices of the following output:
-1. Print a specific 3x3 matrix where a cell is 1 if i == j, else 0
-2. Print the 3x3 matrix from #1 and then add 3 to every cell where i ≠j
-3. Print the 3x3 matrix from #2 as a 3x2 by deleting the last column from the matrix created
-
+The program will run on its own after.
 
